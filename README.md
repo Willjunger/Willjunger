@@ -6,7 +6,7 @@ Meu nome é William Junger, tenho 27 anos e acabo de me formar em Engenharia da 
 
 Entrei no mundo do front-end no ultimo ano e estou trabalhando com React e indo de pouquinho em pouquinho com React Native também 😄
 
-Sou vascaino(⚽️), apaixonado por natação eum verdadeiro Jedi que ama ouvir musica brasileira.
+Sou vascaino(⚽️), apaixonado por natação e um verdadeiro Jedi que ama ouvir musica brasileira.
 
 
 Você pode me encontrar no linkedin também!
