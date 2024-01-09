@@ -2,9 +2,9 @@
 
 ### Fala, Galera!! 😁
 
-Meu nome é William Junger, tenho 28 anos e acabo de me formar em Engenharia da Computação!
+Meu nome é William Junger, tenho 30 anos e acabo de me formar em Engenharia da Computação!
 
-Entrei no mundo do front-end no ultimo ano e estou trabalhando com React e indo de pouquinho em pouquinho com React Native também 😄
+Entrei no mundo do front-end em 2019 e estou trabalhando com React e indo de pouquinho em pouquinho com React Native também 😄
 
 Sou vascaino(⚽️), apaixonado por natação e um verdadeiro Jedi que ama ouvir musica brasileira.
 
