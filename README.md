@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=dark)
 
 ## 📫 Como me encontrar
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_para_seu_perfil)](link_para_seu_perfil)
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&link=link_para_seu_portfolio)](link_para_seu_portfolio)
 
 ## 🎉 Projetos em Destaque
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seu_nome_de_usuario&repo=projeto1&show_owner=true)](link_para_projeto_1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seu_nome_de_usuario&repo=projeto2&show_owner=true)](link_para_projeto_2)
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=willjunger&repo=projeto1&show_owner=true)](link_para_projeto_1)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=willjunger&repo=projeto2&show_owner=true)](link_para_projeto_2)
 
 
 
