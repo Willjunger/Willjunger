@@ -74,8 +74,7 @@ Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado
 
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=highcontrast)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=issues,contribs)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=highcontrast&hide_title=true)
 
 ## 📫 Como me encontrar
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_para_seu_perfil)](link_para_seu_perfil)
