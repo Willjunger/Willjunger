@@ -14,26 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span>
-  
+
 # William Junger
 Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado por natação 🏊‍♂️ e música brasileira 🎶, além de fazer aula de dança 💃 e adorar um forrózinho 🎵.
-</span>
+
+
 
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat GIF" width="200"/>
 
+
 ## 🚀 Sobre mim
-<span>
-  
 - 🎓 Formado em Engenharia da Computação na graduação, e MBA em Engenharia de Software;
 - 💻 Desenvolvedor Front-End;
 - 🌱 Apaixonado por aprender novas tecnologias e doido pra participar de projetos em áreas diferentes;
 - 📚 Atualmente focando meus estudos em gerenciamento de estados e rotas, e em testes.
 
-</span>
+
 
 ## 🛠️ Tecnologias e Ferramentas 
-<!-- Adicione os ícones que desejar -->
 <p float="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
@@ -74,18 +72,17 @@ Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado
 </p>
 
 
+
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=dark)
 
+
 ## 📫 Como me encontrar
-<span>
-  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_para_seu_perfil)](link_para_seu_perfil)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=link_para_seu_perfil)](link_para_seu_perfil)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&link=link_para_seu_portfolio)](link_para_seu_portfolio)
 
-</span>
-
 
 
 may the force be with you
+
