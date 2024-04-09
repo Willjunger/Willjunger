@@ -1,21 +1,4 @@
 
-
-### Fala, Galera!! 😁
-
-Meu nome é William Junger, tenho 30 anos e acabo de me formar em Engenharia da Computação!
-
-Entrei no mundo do front-end em 2019 e estou trabalhando com React e indo de pouquinho em pouquinho com React Native também 😄
-
-Sou vascaino(⚽️), apaixonado por natação e um verdadeiro Jedi que ama ouvir musica brasileira.
-
-
-Você pode me encontrar no linkedin também!
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-junger)](https://www.linkedin.com/in/william-junger)
-
-
-
-
 <!--
 **Willjunger/Willjunger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
