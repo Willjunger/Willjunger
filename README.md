@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <span>
   
 # William Junger
 Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado por natação 🏊‍♂️ e música brasileira 🎶, além de fazer aula de dança 💃 e adorar um forrózinho 🎵.
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat GIF" width="200"/>
-
 </span>
+
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat GIF" width="200"/>
 
 ## 🚀 Sobre mim
 <span>
@@ -90,4 +89,3 @@ Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado
 
 
 may the force be with you
-
