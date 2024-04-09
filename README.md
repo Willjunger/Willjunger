@@ -30,38 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Seu Nome -->
-# Olá! 👋 Eu sou Seu Nome
-
-## 🚀 Sobre mim
-- 🎓 Estudante de Ciência da Computação.
-- 💻 Desenvolvedor Full Stack.
-- 🌱 Apaixonado por aprender novas tecnologias.
-- 📚 Compartilhando conhecimento através de blogs e tutoriais.
-
-## 🛠️ Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=dark)
-
-## 📫 Como me encontrar
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_para_seu_perfil)](link_para_seu_perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=link_para_seu_perfil)](link_para_seu_perfil)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&link=link_para_seu_portfolio)](link_para_seu_portfolio)
-
-## 🎉 Projetos em Destaque
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=willjunger&repo=projeto1&show_owner=true)](link_para_projeto_1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=willjunger&repo=projeto2&show_owner=true)](link_para_projeto_2)
 
 
 
