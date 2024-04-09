@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 -->
 
 
-
-<!-- Seu Nome -->
-<span style="font-family: 'Star Jedi', sans-serif;">
+<span>
   
-# Fala aí! 👋 
+# William Junger
 Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado por natação 🏊‍♂️ e música brasileira 🎶, além de fazer aula de dança 💃 e adorar um forrózinho 🎵.
-
-Que a força esteja com você! 🌌
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat GIF" width="200"/>
 
 </span>
 
 ## 🚀 Sobre mim
-<span style="font-family: 'Star Jedi', sans-serif;">
+<span>
   
 - 🎓 Formado em Engenharia da Computação na graduação, e MBA em Engenharia de Software;
 - 💻 Desenvolvedor Front-End;
@@ -79,13 +76,10 @@ Que a força esteja com você! 🌌
 
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=dark)
-
-## 📊 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=dark)
 
 ## 📫 Como me encontrar
-<span style="font-family: 'Star Jedi', sans-serif;">
+<span>
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_para_seu_perfil)](link_para_seu_perfil)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=link_para_seu_perfil)](link_para_seu_perfil)
@@ -93,10 +87,7 @@ Que a força esteja com você! 🌌
 
 </span>
 
-## 🎉 Projetos em Destaque
-<span style="font-family: 'Star Jedi', sans-serif;">
-  
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=willjunger&repo=projeto1&show_owner=true)](link_para_projeto_1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=willjunger&repo=projeto2&show_owner=true)](link_para_projeto_2)
 
-</span>
+
+may the force be with you
+
