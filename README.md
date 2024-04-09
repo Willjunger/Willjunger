@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado por natação 🏊‍♂️ e música brasileira 🎶, além de fazer aula de dança 💃 e adorar um forrózinho 🎵.
 
+Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
+<span style="font-size:small">nem tanto prazer assim no lolzin...</span> 
 
 
 <img src="https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" alt="Octocat GIF" width="600"/>
@@ -30,9 +32,10 @@ Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado
 - 📚 Atualmente focando meus estudos em gerenciamento de estados e rotas, e em testes.
 
 
+<div style="margin-top: 80px">
 
 ## 🛠️ Tecnologias e Ferramentas 
-<p float="left">
+<p float="left" style="margin-top: 30px">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
   </a>
@@ -69,18 +72,44 @@ Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado
   <a href="https://github.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" />
   </a>
+  
 </p>
 
+</div>
 
+<div style="margin-top: 80px">
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=issues,contribs)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=highcontrast&hide_title=true)
+## 📚 Estou estudando agora...
+
+  <a href="https://jestjs.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
+  </a>
+  <a href="https://react-query.tanstack.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-query.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
+  </a>
+
+</div>
+
+<div style="margin-top: 80px">
+
+## 📊 Meu GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=highcontrast)
+
+</div>
+
+<div style="margin-top: 80px">
 
 ## 📫 Como me encontrar
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_para_seu_perfil)](link_para_seu_perfil)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=link_para_seu_perfil)](link_para_seu_perfil)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&link=link_para_seu_portfolio)](link_para_seu_portfolio)
 
+</div>
 
 
-may the force be with you
