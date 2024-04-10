@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado por natação 🏊‍♂️ e música brasileira 🎶, além de fazer aula de dança 💃 e adorar um forrózinho 🎵.
 
 Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
+
  *nem tanto prazer assim no lolzin..*.
 
 
