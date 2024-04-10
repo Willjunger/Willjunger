@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Tenho 31 anos, moro em São João de Meriti/RJ, sou vascaíno ⚽️, apaixonado por natação 🏊‍♂️ e música brasileira 🎶, além de fazer aula de dança 💃 e adorar um forrózinho 🎵.
 
 Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
-<span style="font-size:10px;">nem tanto prazer assim no lolzin...</span> 
+ *nem tanto prazer assim no lolzin..*.
 
 
 <img src="https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" alt="Octocat GIF" width="600"/>
