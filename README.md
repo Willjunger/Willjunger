@@ -72,15 +72,12 @@ Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
   <a href="https://github.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
-  
 </p>
-
 </div>
 
 <div style="margin-top: 80px">
 
 ## 📚 Estou estudando agora...
-
    <a href="https://jestjs.io/">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
   </a>
@@ -92,7 +89,7 @@ Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
   </a>
 </div>
 
-<div style="margin-top: 80px">
+<div style="margin-top: 80px;">
 
 ## 📊 Meu GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willjunger&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjunger&layout=compact&theme=highcontrast)
@@ -108,8 +105,4 @@ Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
   <a href="https://www.instagram.com/junger.william/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
   </a>
-
-
-
 </div>
-
