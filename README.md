@@ -37,40 +37,40 @@ Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
 ## 🛠️ Tecnologias e Ferramentas 
 <p float="left" style="margin-top: 30px">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://jquery.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://getbootstrap.com/">
-    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="50" />
+    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://storybook.js.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;"/>
   </a>
   
 </p>
@@ -81,11 +81,8 @@ Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
 
 ## 📚 Estou estudando agora...
 
-  <a href="https://jestjs.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
-  </a>
-  <a href="https://react-query.tanstack.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-query.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
+   <a href="https://jestjs.io/">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
   </a>
   <a href="https://redux.js.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
@@ -93,7 +90,6 @@ Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
   <a href="https://www.npmjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
   </a>
-
 </div>
 
 <div style="margin-top: 80px">
@@ -105,11 +101,15 @@ Jogador de Tibia, lolzin(ARAM) e Nintendo Switch com muito prazer!🎮
 
 <div style="margin-top: 80px">
 
-## 📫 Como me encontrar
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_para_seu_perfil)](link_para_seu_perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=link_para_seu_perfil)](link_para_seu_perfil)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&link=link_para_seu_portfolio)](link_para_seu_portfolio)
+## 📫 Você pode me encontrar aqui também
+  <a href="https://www.linkedin.com/in/william-junger/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
+  </a>
+  <a href="https://www.instagram.com/junger.william/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" style="background-color: white; border-radius: 8px; padding: 5px;">
+  </a>
+
+
 
 </div>
-
 
